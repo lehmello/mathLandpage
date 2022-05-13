@@ -164,6 +164,10 @@ a {
 		width: 200px;
 		height: 200px;
 	}
+	.bgtest{
+		background-position: center top;
+
+	}
 
 	.itencontato p{
 		font-size: 15px;
